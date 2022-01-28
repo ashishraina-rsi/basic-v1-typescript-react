@@ -1,0 +1,17 @@
+.ToDoTask {
+    display: flex;
+    flex-direction: row;
+    flex-basis: auto;
+    padding:5px;
+    margin:5px;
+    background-color: tomato;
+}
+
+.ToDoTask div {
+    padding: 10px;
+    margin:5px;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-weight: bolder;
+    
+}
